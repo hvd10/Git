@@ -1,0 +1,5 @@
+Car information
+--
+Service     | Name | Quantity
+Lamborghini | Urus | 20
+Mercedes    | Benz | 40
